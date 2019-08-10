@@ -1,0 +1,17 @@
+{
+  "name": "powerset",
+  "version": "1.0.0",
+  "description": "",
+  "main": "powerset.js",
+  "dependencies": {},
+  "homepage": "https://github.com/ttam/powerset",
+  "devDependencies": {
+    "@types/jest": "^24.0.17",
+    "jest": "^24.8.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Matt Bannon <git@ttam.co>",
+  "license": "ISC"
+}
